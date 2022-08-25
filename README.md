@@ -7,7 +7,10 @@
 
 ###  &nbsp;About Me :
 
-I am a Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30">
+I am a Senior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> familiar with wide range of programming utilities and languages. 
+Knowledgeable of backend and frontend development requirements.
+Handles any part of process with ease.
+Collaborative team player with excellent technical abilities offering 7 years of related experience. 
 
 - 🔭 I’m working as a Software Engineer and contributing to frontend and backend for building web applications.
 - 🌱 Exploring Technical Content Writing.
