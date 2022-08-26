@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-###  &nbsp;About Me :
+### :man_technologist: &nbsp;About Me :
 
 I am a Senior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> familiar with wide range of programming utilities and languages. 
 Knowledgeable of backend and frontend development requirements.
@@ -17,7 +17,7 @@ Collaborative team player with excellent technical abilities offering 7 years of
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 ---
 
-### :man_technologist: About Me :
+
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
