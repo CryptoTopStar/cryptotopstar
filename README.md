@@ -17,7 +17,7 @@ Collaborative team player with excellent technical abilities offering 7 years of
 - ⚡ In my free time I solve problems on GeeksforGeeks and read tech articles.
 ---
 
-### 🛠 &nbsp;Languages and Tools :
+### :man_technologist: About Me :
 
 <p>
 <img src="https://github.com/devicons/devicon/blob/master/icons/java/java-original-wordmark.svg" title="Java" alt="Java" width="40" height="40"/>&nbsp;
