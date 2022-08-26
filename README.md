@@ -5,7 +5,7 @@
 
 <p align="center"><img src="https://media.giphy.com/media/dWesBcTLavkZuG35MI/giphy.gif" width="600" height="300"  /></p>
 
-### :man_technologist: &nbsp;About Me :
+### :technologist: &nbsp;About Me :
 
 I am a Senior Full Stack Developer <img src="https://media.giphy.com/media/WUlplcMpOCEmTGBtBW/giphy.gif" width="30"> familiar with wide range of programming utilities and languages. 
 Knowledgeable of backend and frontend development requirements.
