@@ -44,8 +44,15 @@ Collaborative team player with excellent technical abilities offering 7 years of
 ---
 
 ### 🔥 &nbsp; My Stats :
-[![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cryptotopstar&theme=dark&background=000000)](https://git.io/streak-stats)
 
-[![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptotopstar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats)
+<p align="center">
+  <img height="150" width="150" src="WEBP/left.webp">
+  <img align="center" src="http://github-readme-streak-stats.herokuapp.com?user=cryptotopstar&theme=dark&background=000000"/>
+  <img height="150" width="150" src="WEBP/right.webp">
+</p>
+
+<!-- [![GitHub Streak](http://github-readme-streak-stats.herokuapp.com?user=cryptotopstar&theme=dark&background=000000)](https://git.io/streak-stats) -->
+
+<!-- [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=cryptotopstar&layout=compact&theme=vision-friendly-dark)](https://github.com/anuraghazra/github-readme-stats) -->
 
 ---
