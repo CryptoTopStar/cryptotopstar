@@ -3,7 +3,7 @@
 
   <img align="right" alt="GIF" src="https://github.com/v08nike/v08nike/blob/main/code.gif?raw=true" width="400" height="320" />
 
-Professional Full Stack engineer, web development using MERN stack as well. Experienced in TypeScript, Javascript and its frameworks in particular. Involved in a lot of works in company related to web development and helped in builing their project from scratch.
+Professional Full Stack engineer, web development using MERN stack, Laravel/Vue, Python/React as well. Experienced in TypeScript, Javascript and its frameworks in particular. Involved in a lot of works in company related to web development and helped in builing their project from scratch.
 
 ## 🛠️ My favorite tools
 
